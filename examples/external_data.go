@@ -4,11 +4,11 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"fmt"
-	"github.com/SemanticSugar/clickhouse-go/lib/column"
+	"github.com/ClickHouse/clickhouse-go/lib/column"
 	"log"
 	"time"
 
-	"github.com/SemanticSugar/clickhouse-go"
+	"github.com/ClickHouse/clickhouse-go"
 )
 
 func main() {
