@@ -1,7 +1,7 @@
 package column
 
 import (
-	"github.com/SemanticSugar/clickhouse-go/lib/binary"
+	"github.com/ClickHouse/clickhouse-go/lib/binary"
 )
 
 type Int16 struct{ base }

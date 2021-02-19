@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SemanticSugar/clickhouse-go/lib/binary"
+	"github.com/ClickHouse/clickhouse-go/lib/binary"
 )
 
 type DateTime64 struct {
