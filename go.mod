@@ -1,8 +1,6 @@
-module github.com/ClickHouse/clickhouse-go
+module github.com/SemanticSugar/clickhouse-go
 
 go 1.12
-
-replace github.com/ClickHouse/clickhouse-go => ./
 
 require (
 	github.com/bkaradzic/go-lz4 v1.0.0
